@@ -30,9 +30,10 @@ Web developer coding quiz that has instructions for use,  five multiple choise q
 3) Each question has four possible answers from which participant must select correct answer within allocated 75 second countdown.
 
 4) Scoring:
-                  CORRECT answer selected will result in green answer earning 10 points and gaining 10 seconds added to countdown time. 
+                  
+CORRECT answer selected will result in green answer earning 10 points and gaining 10 seconds added to countdown time. 
 
-                  INCORRECT answer selected, answer will result in red answer and 15 seconds taken off countdown time.
+INCORRECT answer selected, answer will result in red answer and 15 seconds taken off countdown time.
 
 5) Quiz will stop when  countdown reaches 0 seconds.
 
